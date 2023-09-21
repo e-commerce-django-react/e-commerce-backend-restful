@@ -28,6 +28,7 @@ Product is the most important section of the project for this model we have **su
 1. list of submited orders
 1. able to CRUD for Product
 1. able to CRUD for Category
+1. generate discount code for list of users or specific user.
 1. ten basic manager report for product that contains date range filter and etc
 1. ten basic manger report for customers that contains date range filter and etc
 ## Technologies
