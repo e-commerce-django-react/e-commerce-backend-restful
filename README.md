@@ -38,3 +38,6 @@ Product is the most important section of the project for this model we have **su
 1. Nginx
 1. JWT 
 1. PostgreSql
+1. pytest
+1. UnitTest
+1. CI/CD (Github actions)
